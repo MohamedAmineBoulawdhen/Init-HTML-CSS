@@ -1,5 +1,5 @@
 # Portfolio Web Page Project
-![Header Image](header.png)
+[Header Image](header.png)
 
 ## Objective
 In this project, you will be creating a professional portfolio web page using HTML and CSS. You will be linking a stylesheet to your HTML project and applying custom styles to your elements such as changing the display of the navbar, changing the font, and adding classes to your HTML elements. The goal is to create a visually appealing portfolio web page to showcase your skills.
